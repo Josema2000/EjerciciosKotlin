@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FILMAPP</string>
+    <string name="app_name">KOTLIN MOBILE</string>
+    <string name="texto">Hello World!</string>
 </resources>
