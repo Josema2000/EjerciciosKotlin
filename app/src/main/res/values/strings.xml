@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">KOTLIN MOBILE</string>
-    <string name="texto">Hello World!</string>
+    <string name="app_name">Jose Manuel MOBILE</string>
+    <string name="texto">¡Hello World!</string>
+    <string name="titulo">The First Purga, the night of the beast</string>
+    <string name="director">James DeMonaco</string>
+    <string name="BotonAlquilar">Rent</string>
+    <string name="BotonComprar">Buy</string>
 </resources>

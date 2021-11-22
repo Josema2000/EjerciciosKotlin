@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">KOTLIN MOVIL</string>
-    <string name="texto">Hola mundo</string>
+    <string name="app_name">Móvil Jose Manuel</string>
+    <string name="texto">¡Hola mundo!</string>
+    <string name="titulo">La Primera Purga, la noche de las bestias</string>
+    <string name="director">James DeMonaco</string>
+    <string name="BotonAlquilar">Alquilar</string>
+    <string name="BotonComprar">Comprar</string>
 </resources>
