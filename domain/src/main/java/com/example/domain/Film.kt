@@ -1,4 +1,4 @@
 package com.example.domain
 
-class Film {
-}
+data class Film (val title: String)
+
