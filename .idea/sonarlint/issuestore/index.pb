@@ -166,8 +166,6 @@ A
 domain/.gitignore,f\0\f0beecb3fabf37dd9436f6a769abf826f97eba92
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-e
-5app/src/main/java/com/example/filmapp/MainActivity.kt,7\0\708df09532e5b797469a87ad801de85caa8ca967
 k
 ;app/src/main/java/com/example/filmapp/AndroidApplication.kt,d\6\d647471459877af9b7a6b18e6ef12911f44726a3
 c
