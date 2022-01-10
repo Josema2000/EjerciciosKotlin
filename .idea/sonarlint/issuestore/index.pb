@@ -20,8 +20,6 @@ X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-–
-f.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2021_17_16_[Default_Changelist]/shelved.patch,b\c\bc080583a778983b3567de3bf6b5c56321aff3fb
 Œ
 \.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2021_17_16__Default_Changelist_.xml,8\3\83a2eaf88e32ff218953020ca71d813f824d09f4
 p
@@ -172,3 +170,7 @@ c
 3app/src/main/java/com/example/filmapp/AndroidLog.kt,9\e\9e454c956b022043b73437fdd0b2d1c42f185c1d
 C
 domain/build.gradle,a\3\a3021bb5ba623a461b5fdb89ae51923a4945c354
+A
+data/build.gradle,7\2\72c2781d3d9ac8b82a3543f0fba5c796b2975232
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
