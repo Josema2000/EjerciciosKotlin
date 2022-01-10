@@ -2,6 +2,7 @@ package com.example.filmapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.activity.viewModels
 import com.example.domain.FilmUseCase
 import com.example.filmapp.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
@@ -16,6 +17,8 @@ class MainActivity : AppCompatActivity() {
     lateinit var useCase: FilmUseCase
 
     private lateinit var binding: ActivityMainBinding
+
+    private val viewModel: MainViewModel by viewModels()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
