@@ -3,6 +3,7 @@ package com.example.filmapp
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.domain.FilmUseCase
+import com.example.filmapp.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
@@ -14,13 +15,20 @@ class MainActivity : AppCompatActivity() {
     @Inject
     lateinit var useCase: FilmUseCase
 
+    private lateinit var binding: ActivityMainBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
         log.Log("onCreate")
         var pelicula = useCase.execute()
         log.Log(pelicula.nameDir)
+        binding.Titulo.text = resources.getString(R.string.titulo)
+        binding.imageView.setImageResource(R.drawable.ic_launcher_background)
     }
+
+
 
     override fun onResume(){
         super.onResume()
