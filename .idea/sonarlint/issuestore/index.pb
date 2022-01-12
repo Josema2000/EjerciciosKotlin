@@ -168,10 +168,6 @@ C
 domain/build.gradle,a\3\a3021bb5ba623a461b5fdb89ae51923a4945c354
 A
 data/build.gradle,7\2\72c2781d3d9ac8b82a3543f0fba5c796b2975232
-_
-/domain/src/main/java/com/example/domain/Film.kt,e\e\ee4cac1ec5d7b3c3f7d68e2958adb308d3346335
-i
-9domain/src/main/java/com/example/domain/FilmRepository.kt,c\b\cb7faa460e3e7d8b27866079f3a8ca26e645876f
 ç
 ].idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13__Default_Changelist_1.xml,6\f\6f9db8d2de00e0765078aaece4febec49ca33414
 å

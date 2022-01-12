@@ -26,9 +26,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         viewModel.loadFilm()
         viewModel.film.observe(this){
-            binding.Titulo.text= it.title
+            binding.Titulo.text = it.title
+            binding.Director.text = it.nameDir
         }
-        binding.Titulo.text = resources.getString(R.string.titulo)
         binding.imageView.setImageResource(R.drawable.ic_launcher_background)
     }
 
