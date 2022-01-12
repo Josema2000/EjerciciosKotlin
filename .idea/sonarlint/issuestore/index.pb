@@ -20,8 +20,6 @@ X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-å
-\.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2021_17_16__Default_Changelist_.xml,8\3\83a2eaf88e32ff218953020ca71d813f824d09f4
 p
 @.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml,f\8\f8aae8dbbb8ebe33d5f870e13799a03f74b402c9
 p
@@ -170,3 +168,17 @@ C
 domain/build.gradle,a\3\a3021bb5ba623a461b5fdb89ae51923a4945c354
 A
 data/build.gradle,7\2\72c2781d3d9ac8b82a3543f0fba5c796b2975232
+_
+/domain/src/main/java/com/example/domain/Film.kt,e\e\ee4cac1ec5d7b3c3f7d68e2958adb308d3346335
+i
+9domain/src/main/java/com/example/domain/FilmRepository.kt,c\b\cb7faa460e3e7d8b27866079f3a8ca26e645876f
+ç
+].idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13__Default_Changelist_1.xml,6\f\6f9db8d2de00e0765078aaece4febec49ca33414
+å
+\.idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13__Default_Changelist_.xml,6\2\623da70a74ce99cefe19ec534783070249a280a7
+Q
+!.idea/modules/app/FILMAPP.app.iml,b\8\b8d7ba5d81703405f842a21f06ab426f6a3f46d3
+ó
+g.idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13_[Default_Changelist]1/shelved.patch,2\7\2740a86f89ddb79a3cb3de6a5112b27dffa25260
+ñ
+f.idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13_[Default_Changelist]/shelved.patch,a\c\ac76186a1ecca60f1302cb916e2ab52fa9c46f46

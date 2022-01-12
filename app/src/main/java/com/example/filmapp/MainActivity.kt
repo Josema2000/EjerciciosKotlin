@@ -1,8 +1,8 @@
 package com.example.filmapp
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
+import androidx.appcompat.app.AppCompatActivity
 import com.example.domain.FilmUseCase
 import com.example.filmapp.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
@@ -24,14 +24,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        log.Log("onCreate")
-        var pelicula = useCase.execute()
-        log.Log(pelicula.nameDir)
+        viewModel.loadFilm()
+        viewModel.film.observe(this){
+            binding.Titulo.text= it.title
+        }
         binding.Titulo.text = resources.getString(R.string.titulo)
         binding.imageView.setImageResource(R.drawable.ic_launcher_background)
     }
-
-
 
     override fun onResume(){
         super.onResume()

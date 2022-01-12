@@ -14,6 +14,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ff9495e-653e-41c0-a23d-31c1d752ce56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09edee650ad7100d1a8ea0eda02a9b5f90c71396" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/2740a86f89ddb79a3cb3de6a5112b27dffa25260" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/623da70a74ce99cefe19ec534783070249a280a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f9db8d2de00e0765078aaece4febec49ca33414" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac76186a1ecca60f1302cb916e2ab52fa9c46f46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8d7ba5d81703405f842a21f06ab426f6a3f46d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb7faa460e3e7d8b27866079f3a8ca26e645876f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee4cac1ec5d7b3c3f7d68e2958adb308d3346335" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/83a2eaf88e32ff218953020ca71d813f824d09f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/filmapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/filmapp/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/filmapp/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/filmapp/MainViewModel.kt" afterDir="false" />
     </list>
@@ -73,6 +84,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="ProjectId" id="203AfwBcRAzRsDfWCpQoYRBADVy" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -90,7 +104,7 @@
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
@@ -238,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641844135910</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Ejercicio 7.2">
+      <created>1641844485524</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641844485524</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,6 +268,7 @@
     <MESSAGE value="Ejercicio 6" />
     <MESSAGE value="Ejercicio FilmRepository" />
     <MESSAGE value="Ejercicio FilmRepository 6.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio FilmRepository 6.4" />
+    <MESSAGE value="Ejercicio 7.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 7.2" />
   </component>
 </project>
