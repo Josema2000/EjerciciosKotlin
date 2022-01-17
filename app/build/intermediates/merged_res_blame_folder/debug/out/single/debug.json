@@ -20,16 +20,16 @@
         "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_pelicula.jpg.flat",
+        "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\drawable\\pelicula.jpg"
+    },
+    {
         "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_pelicula.jpg.flat",
-        "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\drawable\\pelicula.jpg"
     },
     {
         "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",

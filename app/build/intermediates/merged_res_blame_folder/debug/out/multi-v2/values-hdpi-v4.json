@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\manol\\.gradle\\caches\\transforms-3\\80721e80a7be6efca4773cde93c5744c\\transformed\\appcompat-1.3.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\manol\\.gradle\\caches\\transforms-3\\dcd3a7c9806add4907d5f4ebf773294e\\transformed\\appcompat-1.3.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

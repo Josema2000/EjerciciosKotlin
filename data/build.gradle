@@ -35,6 +35,7 @@ android {
 
 dependencies {
 
+    implementation 'com.squareup.retrofit2:retrofit:(insert latest version)'
     implementation "com.google.dagger:hilt-android:$hilt_version"
     implementation project(path: ':domain')
     kapt "com.google.dagger:hilt-android-compiler:$hilt_version"

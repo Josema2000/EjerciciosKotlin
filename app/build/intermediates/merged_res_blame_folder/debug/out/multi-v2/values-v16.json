@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\manol\\.gradle\\caches\\transforms-3\\80721e80a7be6efca4773cde93c5744c\\transformed\\appcompat-1.3.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\manol\\.gradle\\caches\\transforms-3\\dcd3a7c9806add4907d5f4ebf773294e\\transformed\\appcompat-1.3.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manol\\.gradle\\caches\\transforms-3\\f151290c6ded99e73cc30cce4233ae32\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\manol\\.gradle\\caches\\transforms-3\\1db39ddf367855952b36f15b44229c0c\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
