@@ -140,12 +140,8 @@ j
 :.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml,b\5\b55deda217539b27dd33ac29946c939ec9a874f4
 t
 D.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml,4\d\4d89b2122553652caca743e131ba3d87ab315d58
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 ?
 data/.gitignore,d\1\d1977b1bb1b3e249de790289a11d8f31156df269
-Q
-!data/src/main/AndroidManifest.xml,f\a\fa20ad08e770fe0392ec3df5be8c6bde6c35d607
 f
 6data/src/test/java/com/example/data/ExampleUnitTest.kt,8\3\8389a69994d44faca12a910fe1ceb864c553eb32
 u
