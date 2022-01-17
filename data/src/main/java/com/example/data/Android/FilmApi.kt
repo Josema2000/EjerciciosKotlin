@@ -5,6 +5,7 @@ import retrofit2.http.Path
 import retrofit2.http.Query
 
 const val API_KEY = "e8dbf25d1d8783bf758287f09a31875a"
+const val BASE_URL = "https://api.themoviedb.org/3/"
 
 interface FilmApi {
 
@@ -17,6 +18,5 @@ interface FilmApi {
     @GET( "movie/{id}/credits")
 
     suspend fun getCredits(@Path("id")filmId:Int,
-                        @Query("language") language:String,
                         @Query("api_key") apiKey:String = API_KEY): CreditsDto
 }

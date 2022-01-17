@@ -14,7 +14,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ff9495e-653e-41c0-a23d-31c1d752ce56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/example/data/Android/CastDto.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data/Android/CastDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data/Android/ServerDataSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/example/data/Android/CreditsDto.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data/Android/CreditsDto.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/example/data/Android/FilmApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data/Android/FilmApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/example/domain/Film.kt" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/com/example/domain/Film.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +64,8 @@
       <list>
         <option value="valueResourceFile" />
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -283,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642448037298</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Ejercicio 9.4">
+      <created>1642448131667</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1642448131667</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

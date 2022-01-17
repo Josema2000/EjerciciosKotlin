@@ -172,7 +172,5 @@ g.idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13_[Default_Ch
 f.idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13_[Default_Changelist]/shelved.patch,a\c\ac76186a1ecca60f1302cb916e2ab52fa9c46f46
 r
 Bdata/src/main/java/com/example/data/Android/HardcodedDataSource.kt,4\4\44e12589b453dc386508404f0c5cdf5999a0dfd4
-_
-/domain/src/main/java/com/example/domain/Film.kt,e\e\ee4cac1ec5d7b3c3f7d68e2958adb308d3346335
 i
 9domain/src/main/java/com/example/domain/FilmRepository.kt,c\b\cb7faa460e3e7d8b27866079f3a8ca26e645876f
