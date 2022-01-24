@@ -3,7 +3,7 @@ package com.example.filmapp
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import com.example.domain.FilmUseCase
+import com.example.domain.GetFilmUseCase
 import com.example.filmapp.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     @Inject
     lateinit var log: AndroidLog
     @Inject
-    lateinit var useCase: FilmUseCase
+    lateinit var useCase: GetFilmUseCase
 
     private lateinit var binding: ActivityMainBinding
 

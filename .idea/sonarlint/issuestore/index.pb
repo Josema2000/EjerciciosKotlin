@@ -166,11 +166,13 @@ C
 ].idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13__Default_Changelist_1.xml,6\f\6f9db8d2de00e0765078aaece4febec49ca33414
 Œ
 \.idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13__Default_Changelist_.xml,6\2\623da70a74ce99cefe19ec534783070249a280a7
-—
-g.idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13_[Default_Changelist]1/shelved.patch,2\7\2740a86f89ddb79a3cb3de6a5112b27dffa25260
-–
-f.idea/shelf/Uncommitted_changes_before_Checkout_at_10_01_2022_19_13_[Default_Changelist]/shelved.patch,a\c\ac76186a1ecca60f1302cb916e2ab52fa9c46f46
-r
-Bdata/src/main/java/com/example/data/Android/HardcodedDataSource.kt,4\4\44e12589b453dc386508404f0c5cdf5999a0dfd4
+b
+2app/src/main/java/com/example/filmapp/AppModule.kt,b\b\bb30fd6d002193c6161cdb727f751abbbfca7fe3
+Q
+!.idea/modules/app/FILMAPP.app.iml,b\8\b8d7ba5d81703405f842a21f06ab426f6a3f46d3
+Q
+!data/src/main/AndroidManifest.xml,f\a\fa20ad08e770fe0392ec3df5be8c6bde6c35d607
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 i
-9domain/src/main/java/com/example/domain/FilmRepository.kt,c\b\cb7faa460e3e7d8b27866079f3a8ca26e645876f
+9data/src/main/java/com/example/data/Android/DataModule.kt,9\3\932e76d627f2c82c535947b607b9d82b2fe1503c

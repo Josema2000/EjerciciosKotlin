@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_23_11_2021_17_16_[Default_Changelist]" date="1637684202802" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2021_17_16_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 23/11/2021 17:16 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".idea/sonarlint/issuestore/7/0/708df09532e5b797469a87ad801de85caa8ca967" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2021_17_16_[Default_Changelist]/708df09532e5b797469a87ad801de85caa8ca967" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2021_17_16_[Default_Changelist]/dd7b3350c29c49497756c7f32c69a3bed18b1cba" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2021_17_16_[Default_Changelist]/6ecd6000a7b6f4a2884412ff19f74193ed089648" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/sonarlint/issuestore/index.pb" />
+    <option name="AFTER_PATH" value=".idea/sonarlint/issuestore/index.pb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_11_2021_17_16_[Default_Changelist]/index.pb" />
+  </binary>
+</changelist>

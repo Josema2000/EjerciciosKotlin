@@ -4,20 +4,40 @@ import androidx.lifecycle.LifecycleObserver
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.domain.FilmUseCase
+import com.example.domain.GetFilmUseCase
+import kotlinx.coroutines.*
+import java.util.*
 import javax.inject.Inject
 
 class MainViewModel @Inject constructor(
-    private val useCase: FilmUseCase
+    private val useCase: GetFilmUseCase
 ): ViewModel(), LifecycleObserver {
 
     private val filmLiveData = MutableLiveData<FilmDataView>()
     val film: LiveData<FilmDataView> = filmLiveData
+    var job: Job? = null
 
     fun loadFilm() {
-        val loadedFilm = useCase.execute()
-        filmLiveData.value = FilmDataView(loadedFilm.title, loadedFilm.nameDir)
+        val language = Locale.getDefault().language
+
+        job = CoroutineScope(Dispatchers.IO).launch {
+            val loadedFilm = useCase.execute(512195, language)
+            withContext(Dispatchers.Main){
+                loadedFilm?.let {
+                    filmLiveData.value = FilmDataView(
+                        it.title,
+                        it.url,
+                        it.nameDir,
+                        it.rating
+                    )
+                }
+            }
+        }
     }
 
-    data class FilmDataView(val title:String, val nameDir: String)
+    override fun onCleared() {
+        super.onCleared()
+        job?.cancel()
+    }
 }
+    data class FilmDataView(val title: String, val imageUrl: String?,val nameDir: String?, val rating: Double?)
