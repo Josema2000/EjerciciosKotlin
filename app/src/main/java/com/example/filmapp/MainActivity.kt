@@ -4,7 +4,6 @@ import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
-import com.example.domain.GetFilmUseCase
 import com.example.filmapp.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
@@ -14,8 +13,6 @@ class MainActivity : AppCompatActivity() {
 
     @Inject
     lateinit var log: AndroidLog
-    @Inject
-    lateinit var useCase: GetFilmUseCase
 
     private lateinit var binding: ActivityMainBinding
 
