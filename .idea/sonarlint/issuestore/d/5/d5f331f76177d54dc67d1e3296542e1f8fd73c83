@@ -1,0 +1,6 @@
+
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ËÞ¸ëýÿÿÿÿ
+º
+java:S1598"¤This file "Repository.java" should be located in "PACKAGE_NAME" directory, not in "C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\domain\src\main\java".(–›Í
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–›Í
