@@ -12,4 +12,10 @@ class FilmRepositoryImpl @Inject constructor(
             serverDataSource.getFilm(id, language)
         }.getOrNull()
     }
+
+    override suspend fun getFilms(language: String): List<Film>? {
+        return runCatching {
+            serverDataSource.getFilms(language)
+        }.getOrNull()
+    }
 }

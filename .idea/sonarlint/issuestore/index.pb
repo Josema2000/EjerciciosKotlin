@@ -80,8 +80,6 @@ f
 6data/src/main/java/com/example/data/Android/CastDto.kt,a\3\a3c1de14c8af3bf44bc42d003281c6424b2b2cf3
 T
 $domain/src/main/java/Repository.java,d\5\d5f331f76177d54dc67d1e3296542e1f8fd73c83
-_
-/domain/src/main/java/com/example/domain/Film.kt,e\e\ee4cac1ec5d7b3c3f7d68e2958adb308d3346335
 f
 6data/src/main/java/com/example/data/Android/FilmDto.kt,0\5\05b1c5aac32b4f2237b182d02c7c59a113debc21
 b
