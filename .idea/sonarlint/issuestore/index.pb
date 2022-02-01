@@ -188,3 +188,5 @@ f
 6data/src/main/java/com/example/data/Android/FilmApi.kt,4\e\4e408cd39bd0e1826e7d9a9e68458f9211fbfe34
 e
 5app/src/main/java/com/example/filmapp/MainActivity.kt,7\0\708df09532e5b797469a87ad801de85caa8ca967
+m
+=app/src/main/java/com/example/filmapp/FilmOverviewDataView.kt,c\5\c5a8f7f14be9fcba8f07d3c949feb72723de5f15

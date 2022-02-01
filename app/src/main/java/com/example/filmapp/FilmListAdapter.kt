@@ -9,6 +9,8 @@ import com.bumptech.glide.Glide
 import com.example.filmapp.databinding.FilmOverviewBinding
 import javax.inject.Inject
 
+typealias OnMessageClick = (FilmOverviewDataView) -> Unit
+
 open class FilmViewHolder(val binding: FilmOverviewBinding) : RecyclerView.ViewHolder(binding.root)
 
 class FilmListAdapter @Inject constructor(): ListAdapter<FilmOverviewDataView, FilmViewHolder>(diffUtil) {
@@ -29,6 +31,8 @@ class FilmListAdapter @Inject constructor(): ListAdapter<FilmOverviewDataView, F
         }
     }
 
+    var callback: OnMessageClick? = null
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) =
         object : FilmViewHolder(
             FilmOverviewBinding.inflate(
@@ -38,6 +42,9 @@ class FilmListAdapter @Inject constructor(): ListAdapter<FilmOverviewDataView, F
         val film = getItem(position)
         holder.binding.info.text = film.title
         Glide.with(holder.binding.imageInfo).load(film.imageUrl).into(holder.binding.imageInfo)
+        holder.binding.root.setOnClickListener {
+            callback?.invoke(film)
+        }
     }
 }
 

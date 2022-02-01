@@ -15,7 +15,7 @@
 11-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:7:5-24:19
+13-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:7:5-26:19
 14        android:name="com.example.filmapp.AndroidApplication"
 14-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:13:9-43
 15        android:allowBackup="true"
@@ -31,47 +31,55 @@
 20-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:11:9-54
 21        android:supportsRtl="true"
 21-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:12:9-35
-22        android:theme="@style/Theme.FILMAPP" >
-22-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:14:9-45
-23        <activity
-23-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:15:9-23:20
-24            android:name="com.example.filmapp.MainActivity"
-24-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:16:13-41
-25            android:exported="true" >
-25-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:17:13-36
-26            <intent-filter>
-26-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:18:13-22:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:17-69
-27-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:21:17-77
-29-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:21:27-74
-30            </intent-filter>
-31        </activity>
-32
-33        <provider
-33-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-34            android:name="androidx.startup.InitializationProvider"
-34-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-35            android:authorities="com.example.filmapp.androidx-startup"
-35-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-36            android:exported="false" >
-36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-37            <meta-data
-37-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-38                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-39                android:value="androidx.startup" />
-39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-40            <meta-data
-40-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-41                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-41-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-42                android:value="androidx.startup" />
-42-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-43        </provider>
-44    </application>
-45
-46</manifest>
+22        android:testOnly="true"
+23        android:theme="@style/Theme.FILMAPP" >
+23-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:14:9-45
+24        <activity
+24-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:15:9-18:20
+25            android:name="com.example.filmapp.MainActivity"
+25-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:16:13-41
+26            android:exported="true" >
+26-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:17:13-36
+27        </activity>
+28        <activity
+28-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:9-25:20
+29            android:name="com.example.filmapp.FilmListActivity"
+29-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:19-51
+30            android:exported="true" >
+30-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:20:13-36
+31            <intent-filter>
+31-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:21:13-24:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:22:17-69
+32-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:23:17-77
+34-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:23:27-74
+35            </intent-filter>
+36        </activity>
+37
+38        <provider
+38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+39            android:name="androidx.startup.InitializationProvider"
+39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+40            android:authorities="com.example.filmapp.androidx-startup"
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+41            android:exported="false" >
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+42            <meta-data
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+43                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+44                android:value="androidx.startup" />
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+45            <meta-data
+45-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+46                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+46-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+47                android:value="androidx.startup" />
+47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+48        </provider>
+49    </application>
+50
+51</manifest>

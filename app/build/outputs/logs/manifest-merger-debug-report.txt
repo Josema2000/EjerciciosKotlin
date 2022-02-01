@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\manol\.gradle\caches\transforms-3\5e42dbd70503c7a6d10c7fde0f661de9\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [:data] C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\data\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\manol\.gradle\caches\transforms-3\5b527ee4a7dfcc4c84bd9352346e4e57\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
@@ -56,20 +56,20 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\3e460c7baba72fff15db98ff192bc03f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.40] C:\Users\manol\.gradle\caches\transforms-3\c2fd1880fdbaf7149df74d3fd3591266\transformed\jetified-dagger-lint-aar-2.40\AndroidManifest.xml:16:1-19:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\manol\.gradle\caches\transforms-3\339e434a380f5edbdf7504e060def3eb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:11-69
@@ -78,7 +78,7 @@ ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\ma
 	android:name
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:7:5-24:19
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:7:5-26:19
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\manol\.gradle\caches\transforms-3\5b527ee4a7dfcc4c84bd9352346e4e57\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\manol\.gradle\caches\transforms-3\5b527ee4a7dfcc4c84bd9352346e4e57\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\manol\.gradle\caches\transforms-3\44a64b9748a526bd6e449c795ef69903\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
@@ -114,21 +114,27 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\manol\.gradle\cach
 	android:name
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:13:9-43
 activity#com.example.filmapp.MainActivity
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:15:9-23:20
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:15:9-18:20
 	android:exported
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:17:13-36
 	android:name
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:16:13-41
+activity#com.example.filmapp.FilmListActivity
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:exported
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:19-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:21:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
