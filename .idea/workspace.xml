@@ -14,11 +14,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ff9495e-653e-41c0-a23d-31c1d752ce56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/filmapp/FilmListAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/filmapp/FilmOverviewDataView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/filmapp/FilmListActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/filmapp/FilmListActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/film_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/film_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/filmapp/FilmListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/filmapp/FilmListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/example/data/Android/HardcodedDataSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data/Android/HardcodedDataSource.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643658988693</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Ejercicio 10.5">
+      <created>1643661361898</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1643661361898</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -379,6 +387,7 @@
     <MESSAGE value="Ejercicio 10.2" />
     <MESSAGE value="Ejercicio 10.3" />
     <MESSAGE value="Ejercicio 10.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 10.4" />
+    <MESSAGE value="Ejercicio 10.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 10.5" />
   </component>
 </project>
