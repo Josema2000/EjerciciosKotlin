@@ -1,6 +1,9 @@
 package com.example.filmapp
 
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
+import android.view.View
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
@@ -34,8 +37,23 @@ class FilmActivity : AppCompatActivity() {
             binding.Titulo.text = it.title
             binding.Director.text = it.nameDir
             Glide.with(this).load(it.imageUrl).into(binding.imageView)
+            binding.imageView.setImageResource(R.drawable.ic_launcher_background)
+
+            if (it.videoId == null) {
+                binding.trailer.visibility = View.GONE
+            }else{
+                binding.trailer.visibility = View.VISIBLE
+                binding.trailer.setOnClickListener {_->
+                    launchYoutube(it.videoId)
+                }
+            }
         }
-        binding.imageView.setImageResource(R.drawable.ic_launcher_background)
+        actionBar?.setDisplayHomeAsUpEnabled(true)
+    }
+
+    private fun launchYoutube(id: String) {
+        val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=$id"))
+            startActivity(intent)
     }
 
     override fun onResume(){
