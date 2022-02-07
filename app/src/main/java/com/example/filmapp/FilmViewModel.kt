@@ -31,7 +31,8 @@ class MainViewModel @Inject constructor(
                         it.title,
                         it.url,
                         it.nameDir,
-                        it.rating
+                        it.rating,
+                        it.videoId
                     )
                 }
             }
@@ -43,4 +44,4 @@ class MainViewModel @Inject constructor(
         job?.cancel()
     }
 }
-    data class FilmDataView(val title: String, val imageUrl: String?,val nameDir: String?, val rating: Double?)
+    data class FilmDataView(val title: String, val imageUrl: String?,val nameDir: String?, val rating: Double?,val videoId: String?)

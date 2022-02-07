@@ -7,5 +7,5 @@ data class FilmDto(
     @SerializedName ("original_title") val title: String,
     @SerializedName ("overview") val description: String,
     @SerializedName ("vote_average") val rating: Double,
-    @SerializedName ("logo_path") val imageUrl: String
+    @SerializedName ("logo_path") val imageUrl: String,
 )

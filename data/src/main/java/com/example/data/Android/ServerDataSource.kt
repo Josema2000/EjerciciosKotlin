@@ -19,12 +19,16 @@ class ServerDataSource @Inject constructor(){
         val director = creditsDto.role.firstOrNull { it.role=="Directing" }?.name ?: ""
         val image = "https://image.tmdb.org/t/p/w500${filmDto.imageUrl}"
 
-        return Film(filmDto.title, image, director, filmDto.description, filmDto.rating, filmDto.id)
+        val video = api.getVideos(id, language).results.filter {
+            it.site == "Youtube"
+        }.firstOrNull { it.type == "Trailer" }?.id
+
+        return Film(filmDto.title, image, director, filmDto.description, filmDto.rating, filmDto.id, video)
     }
 
 suspend fun getFilms(language:String): List<Film> {
     return api.getUpcoming(language).films.map {
-        Film(it.title, getFullUrl(it.imageUrl), null, it.description, it.rating, it.id)
+        Film(it.title, getFullUrl(it.imageUrl), null, it.description, it.rating, it.id, null)
     }
 }
 
