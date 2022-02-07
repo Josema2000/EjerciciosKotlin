@@ -1,7 +1,7 @@
 package com.example.filmapp
 
+import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import com.example.filmapp.databinding.FilmListBinding
@@ -13,9 +13,6 @@ class FilmListActivity:  AppCompatActivity() {
 
     @Inject
     lateinit var adapter: FilmListAdapter
-
-    @Inject
-    private lateinit var myLog: AndroidLog
 
     private lateinit var binding: FilmListBinding
 
@@ -35,8 +32,10 @@ class FilmListActivity:  AppCompatActivity() {
         }
 
         adapter.callback = {
-            Log.i("TAG",".ask.fasdt")
-            myLog.Log("Click en película: ${it.title}")
+
+            val intent = Intent(this, FilmListActivity::class.java)
+            intent.putExtra(FilmActivity.FILM_ID, it.id)
+            startActivity(intent)
         }
     }
 }

@@ -5,10 +5,12 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.example.domain.FilmsUseCase
+import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.*
 import java.util.*
 import javax.inject.Inject
 
+@HiltViewModel
 class FilmListViewModel @Inject constructor(
     private val useCase: FilmsUseCase
 ): ViewModel(), LifecycleObserver {
@@ -24,7 +26,7 @@ class FilmListViewModel @Inject constructor(
             val loadedFilms = useCase.execute(language)
             withContext(Dispatchers.Main) {
                 loadedFilms?.let {
-                    filmsLiveData.value = it.map { film -> FilmOverviewDataView(film.title, film.url) }
+                    filmsLiveData.value = it.map { film -> FilmOverviewDataView(film.title, film.url,film.id) }
                 }
             }
         }

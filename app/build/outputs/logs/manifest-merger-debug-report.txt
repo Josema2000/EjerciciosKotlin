@@ -113,7 +113,7 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\manol\.gradle\cach
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:14:9-45
 	android:name
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:13:9-43
-activity#com.example.filmapp.MainActivity
+activity#com.example.filmapp.FilmActivity
 ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:15:9-18:20
 	android:exported
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:17:13-36

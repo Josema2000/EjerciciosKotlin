@@ -36,7 +36,7 @@
 23-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:14:9-45
 24        <activity
 24-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:15:9-18:20
-25            android:name="com.example.filmapp.MainActivity"
+25            android:name="com.example.filmapp.FilmActivity"
 25-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:16:13-41
 26            android:exported="true" >
 26-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:17:13-36

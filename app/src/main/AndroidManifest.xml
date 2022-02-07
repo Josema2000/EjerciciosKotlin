@@ -13,7 +13,7 @@
         android:name=".AndroidApplication"
         android:theme="@style/Theme.FILMAPP">
         <activity
-            android:name=".MainActivity"
+            android:name=".FilmActivity"
             android:exported="true">
         </activity>
         <activity android:name=".FilmListActivity"
