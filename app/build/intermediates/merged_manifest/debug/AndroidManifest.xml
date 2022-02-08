@@ -19,11 +19,13 @@
         android:label="AndroidApplication"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.FILMAPP" >
         <activity
             android:name="com.example.filmapp.FilmActivity"
             android:exported="true" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".FilmListActivity" />
         </activity>
         <activity
             android:name="com.example.filmapp.FilmListActivity"
@@ -46,6 +48,11 @@
                 android:name="androidx.lifecycle.ProcessLifecycleInitializer"
                 android:value="androidx.startup" />
         </provider>
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
     </application>
 
 </manifest>

@@ -2611,7 +2611,6 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id button
-id button2
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2964,6 +2963,7 @@ id toggle
 id top
 id topPanel
 id touch_outside
+id trailer
 id transitionToEnd
 id transitionToStart
 id transition_current_scene

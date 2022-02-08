@@ -40,12 +40,12 @@
         "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_film_list.xml.flat",
         "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\layout\\film_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",

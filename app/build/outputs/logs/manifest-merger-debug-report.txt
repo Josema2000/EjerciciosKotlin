@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\manol\.gradle\caches\transforms-3\5e42dbd70503c7a6d10c7fde0f661de9\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [:data] C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\data\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\manol\.gradle\caches\transforms-3\5b527ee4a7dfcc4c84bd9352346e4e57\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
@@ -43,6 +43,10 @@ MERGED from [androidx.core:core:1.7.0] C:\Users\manol\.gradle\caches\transforms-
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\e86e579032c708ecbb0551b5d0f356dd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\df11d6da814c1e85743418ce13c98321\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\manol\.gradle\caches\transforms-3\42197ff74ee219a0938d43f24b0200ce\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\3570067bc0ba8bf1ed583013397cac17\transformed\jetified-room-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\manol\.gradle\caches\transforms-3\aa66e6b0ea83c7192baadc461aade36f\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\manol\.gradle\caches\transforms-3\d8c4718055c5843727cef1551e647008\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\21ddb469588a37df701e48d78b84aaeb\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\3508df009daf851f2ec3ea8a3a8b40eb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -56,20 +60,20 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\3e460c7baba72fff15db98ff192bc03f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.40] C:\Users\manol\.gradle\caches\transforms-3\c2fd1880fdbaf7149df74d3fd3591266\transformed\jetified-dagger-lint-aar-2.40\AndroidManifest.xml:16:1-19:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\manol\.gradle\caches\transforms-3\339e434a380f5edbdf7504e060def3eb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:2:11-69
@@ -78,7 +82,7 @@ ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\ma
 	android:name
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:7:5-26:19
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:7:5-29:19
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\manol\.gradle\caches\transforms-3\5b527ee4a7dfcc4c84bd9352346e4e57\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\manol\.gradle\caches\transforms-3\5b527ee4a7dfcc4c84bd9352346e4e57\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\manol\.gradle\caches\transforms-3\44a64b9748a526bd6e449c795ef69903\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
@@ -93,6 +97,8 @@ MERGED from [androidx.core:core:1.7.0] C:\Users\manol\.gradle\caches\transforms-
 MERGED from [androidx.core:core:1.7.0] C:\Users\manol\.gradle\caches\transforms-3\2ed6f76b88631961173f0fbd72c20ed3\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\manol\.gradle\caches\transforms-3\42197ff74ee219a0938d43f24b0200ce\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\manol\.gradle\caches\transforms-3\42197ff74ee219a0938d43f24b0200ce\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\21ddb469588a37df701e48d78b84aaeb\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
@@ -114,27 +120,33 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\manol\.gradle\cach
 	android:name
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:13:9-43
 activity#com.example.filmapp.FilmActivity
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:15:9-18:20
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:exported
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:17:13-36
 	android:name
 		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:16:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:18:13-20:52
+	android:value
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:20:17-50
+	android:name
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:17-63
 activity#com.example.filmapp.FilmListActivity
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:9-25:20
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:22:9-28:20
 	android:exported
-		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:19:19-51
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:22:19-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:21:13-24:29
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml
@@ -217,6 +229,14 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\manol\.gradle\caches\tra
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\df11d6da814c1e85743418ce13c98321\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\manol\.gradle\caches\transforms-3\42197ff74ee219a0938d43f24b0200ce\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\manol\.gradle\caches\transforms-3\42197ff74ee219a0938d43f24b0200ce\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\3570067bc0ba8bf1ed583013397cac17\transformed\jetified-room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\3570067bc0ba8bf1ed583013397cac17\transformed\jetified-room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\manol\.gradle\caches\transforms-3\aa66e6b0ea83c7192baadc461aade36f\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\manol\.gradle\caches\transforms-3\aa66e6b0ea83c7192baadc461aade36f\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\manol\.gradle\caches\transforms-3\d8c4718055c5843727cef1551e647008\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\manol\.gradle\caches\transforms-3\d8c4718055c5843727cef1551e647008\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\21ddb469588a37df701e48d78b84aaeb\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
@@ -273,6 +293,14 @@ ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transfor
 		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
 	android:name
 		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
 	android:value
