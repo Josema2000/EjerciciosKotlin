@@ -171,8 +171,6 @@ h
 j
 :app/src/main/java/com/example/filmapp/FilmListViewModel.kt,2\8\2806299aefe348f3940385f9d5eaac647ad758b4
 i
-9app/src/main/java/com/example/filmapp/FilmListActivity.kt,4\2\42ee913c6c03e84594bb0bfb41f9b3aa18a6cb08
-i
 9data/src/main/java/com/example/data/Android/CreditsDto.kt,7\e\7efd6055851ff0d0495830e4635935b82a6ba5c6
 m
 =app/src/main/java/com/example/filmapp/FilmOverviewDataView.kt,c\5\c5a8f7f14be9fcba8f07d3c949feb72723de5f15

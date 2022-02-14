@@ -6,11 +6,27 @@ import com.example.filmapp.databinding.MainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
-class MainActivity : FragmentActivity() {
+class MainActivity : FragmentActivity(), FilmLauncher {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val binding = MainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        supportFragmentManager.beginTransaction()
+            .add(R.id.list, FilmListFragment())
+            .commit()
+    }
+
+    override fun openDetails(id: Int) {
+        val fragment = FilmFragment()
+        fragment.arguments = Bundle().apply {
+            putInt(FilmFragment.FILM_ID, id)
+        }
+
+        supportFragmentManager.beginTransaction()
+            .add(R.id.list, fragment)
+            .addToBackStack("BackStack")
+            .commit()
     }
 }

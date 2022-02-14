@@ -15,7 +15,7 @@
 11-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:7:5-29:19
+13-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:7:5-33:19
 14        android:name="com.example.filmapp.AndroidApplication"
 14-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:13:9-43
 15        android:allowBackup="true"
@@ -63,37 +63,44 @@
 36-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:26:27-74
 37            </intent-filter>
 38        </activity>
-39
-40        <provider
-40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-41            android:name="androidx.startup.InitializationProvider"
-41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-42            android:authorities="com.example.filmapp.androidx-startup"
-42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-43            android:exported="false" >
-43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-44            <meta-data
-44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-45                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-46                android:value="androidx.startup" />
-46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-47            <meta-data
-47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-48                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-48-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-49                android:value="androidx.startup" />
-49-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-50        </provider>
-51
-52        <service
-52-->[androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
-53            android:name="androidx.room.MultiInstanceInvalidationService"
-53-->[androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
-54            android:directBootAware="true"
-54-->[androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
-55            android:exported="false" />
-55-->[androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
-56    </application>
-57
-58</manifest>
+39        <activity
+39-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:29:9-32:20
+40            android:name="com.example.filmapp.MainActivity"
+40-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:31:13-41
+41            android:exported="true" >
+41-->C:\Users\manol\OneDrive\Documentos\GitHub\EjerciciosKotlin\app\src\main\AndroidManifest.xml:30:13-36
+42        </activity>
+43
+44        <provider
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+45            android:name="androidx.startup.InitializationProvider"
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+46            android:authorities="com.example.filmapp.androidx-startup"
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+47            android:exported="false" >
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+48            <meta-data
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+50                android:value="androidx.startup" />
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\manol\.gradle\caches\transforms-3\863dcda293447a021e1207984239ed17\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+51            <meta-data
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+53                android:value="androidx.startup" />
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\manol\.gradle\caches\transforms-3\bdd02e6de495f7643bf32380896a2ab0\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+54        </provider>
+55
+56        <service
+56-->[androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+57            android:name="androidx.room.MultiInstanceInvalidationService"
+57-->[androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+58            android:directBootAware="true"
+58-->[androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+59            android:exported="false" />
+59-->[androidx.room:room-runtime:2.3.0] C:\Users\manol\.gradle\caches\transforms-3\bddc6d0bc9ed5082129fd3c062ca4d9f\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+60    </application>
+61
+62</manifest>
