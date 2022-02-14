@@ -160,8 +160,6 @@ i
 9domain/src/main/java/com/example/domain/FilmRepository.kt,c\b\cb7faa460e3e7d8b27866079f3a8ca26e645876f
 g
 7domain/src/main/java/com/example/domain/FilmsUseCase.kt,2\4\2427b2ef8188f31a5428a22a305e497afa099212
-@
-app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 n
 >data/src/main/java/com/example/data/Android/FilmOverviewDto.kt,e\5\e510377660a363aa5c0ef700af088f639ca1f306
 p
@@ -190,11 +188,5 @@ m
 =data/src/main/java/com/example/data/Android/VideoResultDto.kt,9\5\9560a67045499db74da8b793c977c46d86a1f0ee
 f
 6app/src/main/java/com/example/filmapp/FilmViewModel.kt,c\e\cea65fff8c3594ca0c05a68a5d06c83fef5aafbd
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
-e
-5app/src/main/java/com/example/filmapp/FilmActivity.kt,c\4\c4d1f2d76b80f57d2f6d3f676df08611351dbf31
-Q
-!.idea/modules/app/FILMAPP.app.iml,b\8\b8d7ba5d81703405f842a21f06ab426f6a3f46d3
 f
 6data/src/main/java/com/example/data/Android/FilmApi.kt,4\e\4e408cd39bd0e1826e7d9a9e68458f9211fbfe34
