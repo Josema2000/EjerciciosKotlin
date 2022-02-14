@@ -78,8 +78,6 @@ T
 $domain/src/main/java/Repository.java,d\5\d5f331f76177d54dc67d1e3296542e1f8fd73c83
 b
 2app/src/main/java/com/example/filmapp/AppModule.kt,b\b\bb30fd6d002193c6161cdb727f751abbbfca7fe3
-i
-9data/src/main/java/com/example/data/Android/DataModule.kt,9\3\932e76d627f2c82c535947b607b9d82b2fe1503c
 …
 U.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml,9\d\9dd08d65094d0cecb009beab69ef5214c79469a6
 t
@@ -194,3 +192,11 @@ m
 =data/src/main/java/com/example/data/Android/VideoResultDto.kt,9\5\9560a67045499db74da8b793c977c46d86a1f0ee
 f
 6app/src/main/java/com/example/filmapp/FilmViewModel.kt,c\e\cea65fff8c3594ca0c05a68a5d06c83fef5aafbd
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+e
+5app/src/main/java/com/example/filmapp/FilmActivity.kt,c\4\c4d1f2d76b80f57d2f6d3f676df08611351dbf31
+Q
+!.idea/modules/app/FILMAPP.app.iml,b\8\b8d7ba5d81703405f842a21f06ab426f6a3f46d3
+f
+6data/src/main/java/com/example/data/Android/FilmApi.kt,4\e\4e408cd39bd0e1826e7d9a9e68458f9211fbfe34

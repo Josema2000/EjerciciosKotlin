@@ -19,10 +19,15 @@ class DatabaseDataSource @Inject constructor(
         return database.FilmDao().getFilms(id)?.toDomain()
     }
 
+    suspend fun updateFilms(films: List<Film>){
+        database.FilmDao().insertAll(films.map { it.toEntity() })
+    }
+
     suspend fun clearFilms() {
         database.FilmDao().deleteAll()
     }
 
     private fun FilmEntity.toDomain(): Film = Film(title, imageUrl, nameDir, description, rating, id, videoId)
 
+    private fun Film.toEntity(): FilmEntity = FilmEntity(id,title, url, nameDir, description, rating, videoId)
 }
