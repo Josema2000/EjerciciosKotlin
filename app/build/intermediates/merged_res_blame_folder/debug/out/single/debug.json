@@ -16,6 +16,10 @@
         "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
         "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
@@ -30,6 +34,14 @@
     {
         "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_film_overview.xml.flat",
+        "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\layout-w600dp\\film_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\layout-sw600dp_main.xml.flat",
+        "source": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\src\\main\\res\\layout-sw600dp\\main.xml"
     },
     {
         "merged": "C:\\Users\\manol\\OneDrive\\Documentos\\GitHub\\EjerciciosKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",

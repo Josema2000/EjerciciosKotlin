@@ -24,9 +24,16 @@ class MainActivity : FragmentActivity(), FilmLauncher {
             putInt(FilmFragment.FILM_ID, id)
         }
 
-        supportFragmentManager.beginTransaction()
-            .add(R.id.list, fragment)
-            .addToBackStack("BackStack")
-            .commit()
+        val isTablet = resources.getBoolean(R.bool.isTablet)
+        if(isTablet) {
+            supportFragmentManager.beginTransaction()
+                .add(R.id.detail, fragment)
+                .commit()
+        }else{
+            supportFragmentManager.beginTransaction()
+                .add(R.id.list, fragment)
+                .addToBackStack("BackStack")
+                .commit()
+        }
     }
 }

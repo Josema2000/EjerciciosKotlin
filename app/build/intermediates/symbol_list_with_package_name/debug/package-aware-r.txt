@@ -1162,6 +1162,7 @@ attr yearStyle
 attr yearTodayStyle
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
+bool isTablet
 bool m3_sys_typescale_body_large_text_all_caps
 bool m3_sys_typescale_body_medium_text_all_caps
 bool m3_sys_typescale_body_small_text_all_caps
@@ -2664,6 +2665,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id detail
 id dialog_button
 id dimensions
 id direct
@@ -2751,6 +2753,7 @@ id legacy
 id line1
 id line3
 id linear
+id list
 id listMode
 id list_item
 id masked
@@ -3101,6 +3104,7 @@ layout film_overview
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
+layout main
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
